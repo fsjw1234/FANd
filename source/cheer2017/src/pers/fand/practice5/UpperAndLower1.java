@@ -11,7 +11,7 @@ public class UpperAndLower1 {
 		String str3=str2.toUpperCase();
 		System.out.println("输入子串的大写为"+str3);
 		String str4=str2.toLowerCase();
-		System.out.println("输入子串的大写为"+str4);
+		System.out.println("输入子串的小写为"+str4);
 		str1.close();
 	}
 
