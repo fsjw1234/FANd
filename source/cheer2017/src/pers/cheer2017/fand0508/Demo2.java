@@ -1,4 +1,4 @@
-package pes.cheer2017.fand0508;
+package pers.cheer2017.fand0508;
 
 import java.util.Scanner;
 
